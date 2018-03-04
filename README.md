@@ -1,6 +1,8 @@
 # Learn Punjabi - Free Android App
 
-<img src="https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/learnpunjabi_icon.png" height=100 width =100/>  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/learnpunjabi_icon.png" width="100" height="100"/>
+</p>
 
 [Punjabi](https://en.wikipedia.org/wiki/Punjabi) is the 10th most widely spoken language in the world with over 100 million native speakers across the globe. Punjabi is 4th most spoken language in UK and 3rd most spoken language in Canada. 
 

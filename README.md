@@ -20,19 +20,19 @@ Learn Punjabi Android app is an initiative to preserve Punjabi language and its 
 ## Achievements & User Feedback 
 (As of March 2018) 
 
-1 Punjabi App in Google Play Store
+No. 1 Punjabi App in Google Play Store
 
-170K + downloads all over the world
+170K+ downloads all over the world
 
 4.4+ rating by over 1500+ reviewers
 
 
 | User Feedback  | User Feedback |
 | ------------- | ------------- |
-| ![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/Feedback1.png)  | ![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/Feedback2.png)  |
-| ![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/Feedback3.png)  | ![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/Feedback4.png)  |
-| ![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/Feedback5.png)  | ![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/Feedback6.png) |
-| ![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/Feedback7.png)  | ![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/Feedback8.png)  |
+| ![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/Feedback18.png)  | ![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/Feedback12.png)  |
+| ![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/Feedback14.png)  | ![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/Feedback15.png)  |
+| ![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/Feedback16.png)  | ![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/Feedback3.png) |
+| ![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/Feedback17.png)  | ![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/Feedback2.png)  |
 
 ## Intended User
 Punjabi language learners of all the age groups.
@@ -86,7 +86,8 @@ Learn Letters screen presents user with all the 35 Punjabi letters and 6 consona
 
 The phonetics, transliteration of the sound and English letter that resembles with the Punjabi letter is displayed at the bottom of the screen. It helps user to understand and learn the letter and its pronunciation easily.
 
-User can swipe to go to next lefter or press play button at the bottom right corner of the screen to visit all the letters in a slideshow mode. 
+User can swipe to go to next lefter or press play button at the bottom right corner of the screen to visit all the letters in a slideshow mode.
+
 ![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/rsz_mock2.png "Learn Punjabi Home") 
 
 ### Screen 3: Draw Letters 
@@ -99,9 +100,9 @@ Draw Letters screen has a Draw Pad where user can draw all the Punjabi letters a
 * Save letter to Gallery - User can save the drawn letter to Gallery 
 * Share letter with others - User can share drawn letter on social media Apps
 
-![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/rsz_mock3.png "Learn Punjabi Home")
-
 The Learn Numbers and Draw Numbers section has the same features as described in Learn Letters and Draw Letters section. 
+
+![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/rsz_mock3.png "Learn Punjabi Home")
 
 ### Screen 4: Learn Words
 

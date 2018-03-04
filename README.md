@@ -79,7 +79,7 @@ Home screen displays a list of sections for accessing the content of the App
 * Learn Words 
 * Learn Colors 
 
-![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/mock1.png "Learn Punjabi Home") 
+![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/rsz_mock1.png "Learn Punjabi Home") 
 
 ### Screen 2: Learn Letters
 Learn Letters screen presents user with all the 35 Punjabi letters and 6 consonants in a View Pager. User can swipe right/left to see next/previous letter. User can tap the letter to listen to the pronunciation of the letter. 
@@ -87,7 +87,7 @@ Learn Letters screen presents user with all the 35 Punjabi letters and 6 consona
 The phonetics, transliteration of the sound and English letter that resembles with the Punjabi letter is displayed at the bottom of the screen. It helps user to understand and learn the letter and its pronunciation easily.
 
 User can swipe to go to next lefter or press play button at the bottom right corner of the screen to visit all the letters in a slideshow mode. 
-![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/mock2.png "Learn Punjabi Home") 
+![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/rsz_mock2.png "Learn Punjabi Home") 
 
 ### Screen 3: Draw Letters 
 Draw Letters screen has a Draw Pad where user can draw all the Punjabi letters and Numbers. User is guided throughout the letter/number drawing with the different checkpoints (marked with dots) and the arrows. User needs to the follow the arrows to draw a letter/number correctly. 
@@ -99,7 +99,7 @@ Draw Letters screen has a Draw Pad where user can draw all the Punjabi letters a
 * Save letter to Gallery - User can save the drawn letter to Gallery 
 * Share letter with others - User can share drawn letter on social media Apps
 
-![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/mock3.png "Learn Punjabi Home")
+![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/rsz_mock3.png "Learn Punjabi Home")
 
 The Learn Numbers and Draw Numbers section has the same features as described in Learn Letters and Draw Letters section. 
 
@@ -110,16 +110,22 @@ Learn Words section has ten subsections corresponding to ten different sounds in
 Learn Words Screen below shows 10 different sections for 10 sounds in Punjabi
 Mukta words screen appears when user clicks on Mukta Words section. It has 10 mukta words in a ViewPager with pronunciation, translation to English and transliteration.
 
-![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/mock4.png "Learn Punjabi Home") ![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/learnpunjabi_home.jpg "Learn Punjabi Home")
+| Learn Words Screen  | Mukta Words Screen |
+| ------------- | ------------- |
+| ![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/rsz_mock4.png)  | ![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/rsz_mock5.png)  |
+
 
 ### Screen 5. Tab Layout 
 
 Tab layout uses multi pane layouts to utilize all the screen space. 
 
-![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/mock5.png "Learn Punjabi Home")
+**Tab Layout Portrait Mode**
 
-![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/mock6.png "Learn Punjabi Home")
-![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/mock7.png "Learn Punjabi Home")
+![Tab Layout Portrait Mode](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/rsz_mock6.png "Tab Layout Portarit Mode")
+
+**Tab Layout Landscape Mode**
+
+![Tab Layout Landscape Mode](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/rsz_mock7.png "Tab Layout Landscape Mode")
 
 ### Screen 6. Learn Punjabi App Widget
 
@@ -129,7 +135,7 @@ User can skip to next section e.g. from letter to numbers etc. by forward and re
 
 User can touch anywhere (except on the button) of the App to launch the App UI.
 
-![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/mock9.png "Learn Punjabi Home")
+![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/rsz_mock9.png "Learn Punjabi Home")
 
 ## Libraries
 **Picasso** - App uses Picasso library to load and recycle the images. It is also used for handling disk caching

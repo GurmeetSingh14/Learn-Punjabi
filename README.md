@@ -11,11 +11,11 @@
 ## Motivation
 Learn Punjabi Android app is an initiative to preserve Punjabi language and its rich culture by providing a handy resource to its learners.
 
-| Learn Punjabi  -|- Screenshots |
+| Learn Punjabi Screenshots | Learn Punjabi Screenshots |
 | ------------- | ------------- |
-| ![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/learnpunjabi_home.jpg "Learn Punjabi Home")   | ![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/learn_letter.jpg "Learn Punjabi Home")   |
-| ![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/draw_letter1.png "Learn Punjabi Home")   | ![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/learn_word.png "Learn Punjabi Home")   |
-| ![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/learn_word.png "Learn Punjabi Home")   | ![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/drawer.jpg "Learn Punjabi Home")   |
+| ![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Mockups/learnpunjabi_home.png "Learn Punjabi Home")   | ![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Mockups/learn_letter.png "Learn Punjabi Home")   |
+| ![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Mockups/draw_letter.png "Learn Punjabi Home")   | ![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Mockups/learn_word.png "Learn Punjabi Home")   |
+| ![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Mockups/drawer.png "Learn Punjabi Home")   | ![Learn Punjabi Home](https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Mockups/color.png "Learn Punjabi Home")   |
 
 ## Achievements & User Feedback 
 (As of March 2018) 

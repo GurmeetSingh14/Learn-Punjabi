@@ -4,6 +4,7 @@
   <img src="https://raw.githubusercontent.com/GurmeetSingh14/Learn-Punjabi/master/Images/learnpunjabi_icon.png" width="100" height="100"/>
 </p>
 
+
 [Punjabi](https://en.wikipedia.org/wiki/Punjabi) is the 10th most widely spoken language in the world with over 100 million native speakers across the globe. Punjabi is 4th most spoken language in UK and 3rd most spoken language in Canada. 
 
 [“Learn Punjabi”](https://play.google.com/store/apps/details?id=gswebcrunch.com.learnpunjabi) Android App teaches Punjabi to users with all ages. It is an interactive and fun way to learn Punjabi language quickly. User can practice speaking, listening and writing Punjabi letters, numbers, words, colors and many more. 
@@ -158,5 +159,5 @@ User can touch anywhere (except on the button) of the App to launch the App UI.
 
 ## Link to Google Play Store: [Learn Punjabi App](https://play.google.com/store/apps/details?id=gswebcrunch.com.learnpunjabi)
 
-
+<a href='https://play.google.com/store/apps/details?id=gswebcrunch.com.learnpunjabi&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
 
